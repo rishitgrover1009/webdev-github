@@ -1,0 +1,2 @@
+This is practice of Git
+This is my first commmit
